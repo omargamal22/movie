@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Movi app</string>
+    <string name="contint">Movie Image</string>
+    <string name="Over_view">Overview :</string>
+    <string name="Release_date">Release date :</string>
+    <string name="title">Movies</string>
+    <string name="Trailers">Trailers</string>
+    <string name="Reviews">Reviews</string>
+    <string name="NoReviews">there are no Reviews</string>
+    <string name="NoTrailers">there are no Trailers</string>
+    <string name="NoDATA">there are no Data</string>
+    <string name="NoINTERNET">there are no Internet Connection</string>
+    <string name="setting">Settings</string>
+    <string-array name="pref_example_list_titles">
+        <item>popularity</item>
+        <item>vote average</item>
+        <item>favorites</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>popularity.desc</item>
+        <item>vote_average.desc</item>
+        <item>fav</item>
+    </string-array>
+</resources>
